@@ -1,0 +1,5 @@
+/Users/Ryan/Documents/Metabolon/Metabolon/bin/Debug/Metabolon.exe
+/Users/Ryan/Documents/Metabolon/Metabolon/bin/Debug/Metabolon.pdb
+/Users/Ryan/Documents/Metabolon/Metabolon/obj/x86/Debug/Metabolon.csproj.CoreCompileInputs.cache
+/Users/Ryan/Documents/Metabolon/Metabolon/obj/x86/Debug/Metabolon.exe
+/Users/Ryan/Documents/Metabolon/Metabolon/obj/x86/Debug/Metabolon.pdb
